@@ -1,0 +1,40 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+
+body {
+	background-color: silver;
+	margin: 10px;
+}
+
+img#logo {
+	height: 80px;
+	vertical-align: middle;
+}
+
+img#image {
+	margin: 10px;
+}
+.border {
+	border: 1px solid #000;
+}
+
+h3 {
+	font-weight: bold;
+}
+
+.right {
+	float: right;
+}
+.left {
+	float: left;
+}
+
+div {
+	margin-bottom: 20px;
+}
+
+h1 {
+	margin-bottom: 30px;
+}
